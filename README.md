@@ -1,7 +1,7 @@
 This folder contains the data and code for the analyses presented in Hardner et. al. (2022). 
 Multi-environment genomic prediction for soluble solids content in peach (Prunus persica). Frontiers of Plant Science.
 
-The analysis requires several R packages, most notably ASReml.
+The analysis requires several R packages, most notably ASReml-R.
 
 Phenotypic, genotypic and SNP map data is available under folder Data. 
 Also under this folder is a workspace for R )apdata_CV_temp.RData) that is required for the estimation of prediction accuracies (LOOCVxLAE). 
