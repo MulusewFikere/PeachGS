@@ -7,3 +7,5 @@ Phenotypic, genotypic and SNP map data is available under folder Data.
 Also under this folder is a workspace for R (apdata_CV_temp.RData) that is required for the estimation of prediction accuracies (LOOCVxLAE). 
 This is required to generate the exact same prediction accuracies presented in the paper as the random selection of the validation populations is defined. 
 However, the code is not restricted to these validation populations.
+
+If you need additional information please contact me : mulusewfikere@gmail.com
